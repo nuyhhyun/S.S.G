@@ -1,23 +1,23 @@
 h1 {
   font-size:45px;
   text-align:center;
-}
+} /* 홈 제목 CSS */
 li {
   border-bottom:1px solid lightgray;
   margin:10px;
   padding:5px;
-}
+} /* 목록 CSS */
 a {
   color:black;
   text-decoration: none;
-}
+} /* 버튼 CSS */
 #t {
   font-size:70px;
   text-align:center;
   border-bottom:1px solid;
   display:block;
   padding:20px;
-}
+} /* 글 제목 CSS */
 #d {
     font-size:20px;
     text-align:center;
@@ -25,4 +25,4 @@ a {
     line-height:1.5;
     padding:30px 0px 50px;
     white-space:normal;
-}
+} /* 글 내용 CSS */
