@@ -1,6 +1,6 @@
 <?php
 $conn = mysqli_connect(
-  'localhost',
+  '192.168.0.14',
   'root',
   'zusqpqp1122',
   'fantasia');
