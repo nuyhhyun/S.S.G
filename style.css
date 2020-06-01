@@ -1,0 +1,28 @@
+h1 {
+  font-size:45px;
+  text-align:center;
+}
+li {
+  border-bottom:1px solid lightgray;
+  margin:10px;
+  padding:5px;
+}
+a {
+  color:black;
+  text-decoration: none;
+}
+#t {
+  font-size:70px;
+  text-align:center;
+  border-bottom:1px solid;
+  display:block;
+  padding:20px;
+}
+#d {
+    font-size:20px;
+    text-align:center;
+    display:block;
+    line-height:1.5;
+    padding:30px 0px 50px;
+    white-space:normal;
+}
